@@ -1,0 +1,8 @@
+{
+'purchase': new Date(YYYY, mm, dd),
+'guarantee': new Date(YYYY, mm, dd),
+'CPU': 'intel',
+'RAM': 4000,
+'HDD': 120000,
+'software': ['Windows 7 OS', 'Mac OS', 'WinRAR']
+}
